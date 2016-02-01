@@ -8,16 +8,22 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="rtc.sasithon.jirawan.healthchack.MainActivity"
-    android:background="@drawable/bg25">
+    android:background="@drawable/bcckgrold">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imageView4"
+        android:src="@drawable/people" />
 
     <ImageView
         android:layout_width="match_parent"
-        android:layout_height="150dp"
+        android:layout_height="241dp"
         android:id="@+id/imageView"
         android:layout_alignParentTop="true"
         android:layout_alignParentLeft="true"
         android:layout_alignParentStart="true"
-        android:background="#82d92323" />
+        android:background="#3c4ef3f0" />
 
     <ImageView
         android:layout_width="match_parent"
@@ -25,12 +31,13 @@
         android:id="@+id/imageView2"
         android:layout_below="@+id/imageView"
         android:layout_above="@+id/imageView3"
-        android:background="#82f2e83a" />
+        android:background="#3c06f95b" />
 
     <ImageView
         android:layout_width="match_parent"
         android:layout_height="150dp"
         android:id="@+id/imageView3"
         android:layout_alignParentBottom="true"
-        android:background="#82a8f049" />
+        android:background="#3c9217d9" />
+
 </RelativeLayout>

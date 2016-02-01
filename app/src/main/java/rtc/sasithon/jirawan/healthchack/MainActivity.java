@@ -15,6 +15,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
         //Brind Widget
         headImageView = (ImageView) findViewById(R.id.imageView);
         BodyImageView = (ImageView) findViewById(R.id.imageView2);

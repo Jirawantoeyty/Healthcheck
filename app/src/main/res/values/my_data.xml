@@ -14,9 +14,10 @@
         <item>หัวข้อโรคเกี่ยวกับหัว ที่ 9</item>
         <item>หัวข้อโรคเกี่ยวกับหัว ที่ 10</item>
 
-
     </string-array>
+
     <string-array name="body_1">
+
         <item>body1</item>
         <item>body2</item>
         <item>body3</item>
@@ -27,11 +28,23 @@
         <item>body8</item>
         <item>body9</item>
         <item>body10</item>
-        <item>body11</item>
 
     </string-array>
-    <string-array name="botton_1"
 
+    <string-array name="botton_1">
+
+        <item>botton1</item>
+        <item>botton2</item>
+        <item>botton3</item>
+        <item>botton4</item>
+        <item>botton5</item>
+        <item>botton6</item>
+        <item>botton7</item>
+        <item>botton8</item>
+        <item>botton9</item>
+        <item>botton10</item>
+
+    </string-array>
 
 </resources><?xml version="1.0" encoding="utf-8"?>
 <resources>
